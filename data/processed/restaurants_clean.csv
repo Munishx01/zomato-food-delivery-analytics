@@ -1,0 +1,61 @@
+restaurant_id,restaurant_name,restaurant_type,city,area,primary_cuisine,restaurant_rating
+R001,Restaurant 01,Quick Service,Pune,North,Desserts,3.5
+R002,Restaurant 02,Cloud Kitchen,Bangalore,East,North Indian,3.5
+R003,Restaurant 03,Cafe,Bangalore,North,Pizza,3.3
+R004,Restaurant 04,Quick Service,Jaipur,West,Mughlai,3.7
+R005,Restaurant 05,Casual Dining,Pune,West,Pizza,4.5
+R006,Restaurant 06,Cafe,Bangalore,North,Beverages,3.2
+R007,Restaurant 07,Quick Service,Bangalore,West,Chinese,3.8
+R008,Restaurant 08,Quick Service,Mumbai,East,Beverages,3.7
+R009,Restaurant 09,Casual Dining,Hyderabad,West,Street Food,4.1
+R010,Restaurant 10,Cloud Kitchen,Bangalore,North,Street Food,4.2
+R011,Restaurant 11,Cloud Kitchen,Hyderabad,North,Pizza,4.1
+R012,Restaurant 12,Cafe,Mumbai,East,North Indian,4.0
+R013,Restaurant 13,Quick Service,Jaipur,North,Chinese,3.8
+R014,Restaurant 14,Quick Service,Mumbai,South,Pizza,3.6
+R015,Restaurant 15,Cloud Kitchen,Hyderabad,West,Mughlai,3.8
+R016,Restaurant 16,Casual Dining,Mumbai,North,Biryani,4.3
+R017,Restaurant 17,Cloud Kitchen,Mumbai,West,Desserts,4.0
+R018,Restaurant 18,Casual Dining,Pune,North,Desserts,3.9
+R019,Restaurant 19,Quick Service,Bangalore,North,Biryani,3.8
+R020,Restaurant 20,Quick Service,Jaipur,East,South Indian,3.9
+R021,Restaurant 21,Quick Service,Pune,West,Chinese,4.6
+R022,Restaurant 22,Cloud Kitchen,Mumbai,North,Healthy,4.5
+R023,Restaurant 23,Cafe,Jaipur,South,Chinese,3.3
+R024,Restaurant 24,Cafe,Hyderabad,Central,North Indian,3.5
+R025,Restaurant 25,Quick Service,Hyderabad,Central,Pizza,3.4
+R026,Restaurant 26,Casual Dining,Hyderabad,East,Pizza,4.0
+R027,Restaurant 27,Cloud Kitchen,Pune,East,Biryani,4.0
+R028,Restaurant 28,Casual Dining,Bangalore,South,South Indian,4.6
+R029,Restaurant 29,Casual Dining,Hyderabad,West,North Indian,4.0
+R030,Restaurant 30,Quick Service,Bangalore,East,Street Food,3.6
+R031,Restaurant 31,Quick Service,Hyderabad,South,North Indian,3.2
+R032,Restaurant 32,Cafe,Pune,North,North Indian,3.6
+R033,Restaurant 33,Casual Dining,Bangalore,North,Healthy,3.9
+R034,Restaurant 34,Cloud Kitchen,Mumbai,Central,Biryani,3.7
+R035,Restaurant 35,Cloud Kitchen,Mumbai,East,Street Food,3.6
+R036,Restaurant 36,Casual Dining,Pune,East,Beverages,4.2
+R037,Restaurant 37,Casual Dining,Mumbai,East,Biryani,3.7
+R038,Restaurant 38,Cloud Kitchen,Hyderabad,West,Pizza,3.5
+R039,Restaurant 39,Casual Dining,Hyderabad,North,Street Food,4.8
+R040,Restaurant 40,Quick Service,Delhi,North,Chinese,3.4
+R041,Restaurant 41,Cloud Kitchen,Delhi,South,North Indian,3.6
+R042,Restaurant 42,Quick Service,Pune,East,Chinese,4.4
+R043,Restaurant 43,Quick Service,Mumbai,West,Pizza,4.7
+R044,Restaurant 44,Casual Dining,Delhi,East,Desserts,3.8
+R045,Restaurant 45,Quick Service,Jaipur,East,Pizza,3.7
+R046,Restaurant 46,Quick Service,Pune,Central,Chinese,3.9
+R047,Restaurant 47,Cloud Kitchen,Bangalore,North,Mughlai,4.4
+R048,Restaurant 48,Casual Dining,Mumbai,East,North Indian,3.9
+R049,Restaurant 49,Quick Service,Hyderabad,East,Chinese,3.7
+R050,Restaurant 50,Casual Dining,Delhi,East,Biryani,4.4
+R051,Restaurant 51,Casual Dining,Bangalore,Central,Street Food,4.3
+R052,Restaurant 52,Casual Dining,Hyderabad,South,South Indian,4.1
+R053,Restaurant 53,Quick Service,Mumbai,Central,Healthy,3.8
+R054,Restaurant 54,Quick Service,Bangalore,South,Pizza,3.4
+R055,Restaurant 55,Quick Service,Hyderabad,East,Pizza,3.7
+R056,Restaurant 56,Quick Service,Jaipur,East,Chinese,3.7
+R057,Restaurant 57,Cloud Kitchen,Jaipur,Central,Pizza,4.0
+R058,Restaurant 58,Cloud Kitchen,Pune,East,Beverages,3.7
+R059,Restaurant 59,Casual Dining,Bangalore,South,Pizza,4.3
+R060,Restaurant 60,Casual Dining,Pune,North,Healthy,4.5
