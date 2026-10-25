@@ -280,7 +280,7 @@ Expected check: SQL and pandas both report total order amount **596,782.16** and
 - Add row-level security and a mobile layout.
 
 ## 17. Author
-**Munish Kumar**: Data Analyst & Power BI Developer
+**Munish Kumar**: Data Engineer
 GitHub: [@Munishx01](https://github.com/Munishx01)
 
 ---
